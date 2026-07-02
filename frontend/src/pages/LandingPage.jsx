@@ -189,7 +189,7 @@ const LandingPage = () => {
             <Link to="/" className="flex items-center gap-2.5 min-w-0 group" aria-label="UMNAAPP home">
               <AppLogo decorative imgClassName="h-8 w-auto max-h-9 object-contain flex-shrink-0 transition-transform group-hover:scale-110 drop-shadow-lg" />
               <span className="text-xl sm:text-2xl font-bold tracking-tight bg-gradient-to-r from-sky-300 via-cyan-200 to-primary-300 bg-clip-text text-transparent truncate">
-                UMNAAPP AKHILAaaa
+                UMNAAPP AKHILAaaaaaaaaaaa
               </span>
             </Link>
             <nav className="flex items-center gap-2 sm:gap-3">
